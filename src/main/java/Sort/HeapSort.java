@@ -11,9 +11,10 @@ public class HeapSort {
 */
     public static void BigHeapSort(int[] a){
         int n = a.length - 1;
-        for(int k = (n - 1) / 2;k >= 0; k--)
+        for(int k = (n - 1) / 2;k >= 0; k--) {
             BigSink(a,k,n);
-        while(n > 0){
+        }
+        while(n > 0) {
             Sort.ExchangeForInt(a,0, n--);    //缩短需要排序的数组长度，末尾都是已经排好的
             BigSink(a,0,n);
         }
@@ -30,7 +31,7 @@ public class HeapSort {
     }
 
     public static void BigSink(int[] a,int k,int n){
-        while(2 * k + 1 <= n){
+        while(2 * k + 1 <= n) {
             int j = 2 * k + 1;
             if(j < n && Sort.Less(a[j],a[j+1])) //右孩子比左孩子大
                 j++;

@@ -2,12 +2,13 @@ package ForTest;
 
 import java.util.Iterator;
 import java.util.LinkedList;
+import java.util.List;
 import java.util.ListIterator;
 
 public class LinkedListTest {
     public static void main(String[] args) {
-        var a = new LinkedList<String>();
-        var b = new LinkedList<String>();
+        List<String> a = new LinkedList<String>();
+        List<String> b = new LinkedList<String>();
         a.add("Amy");
         a.add("Alice");
         a.add("Alan");
