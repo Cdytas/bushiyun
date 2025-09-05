@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="62ec2f87-ee2d-44a5-90e7-042ba8147937" name="更改" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/ForTest/Test8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ForTest/Test8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ForTest/LamdbaTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ForTest/LamdbaTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,18 +25,25 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Cdytas"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Cdytas/bushiyun.git",
+    "accountId": "3dc56f04-48cb-4fd2-9cde-1a73849d7e7c"
+  }
+}]]></component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="MavenImportPreferences">
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="workspaceImportEnabled" value="true" />
-      </MavenImportingSettings>
-    </option>
-  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2Z79CgvUJystigJNZWcxxOixzum" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -43,17 +52,23 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "b1",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
     "last_opened_file_path": "D:/IntelliJ IDEA 2022.3.1/workspace/Bushiyun",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "模块",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "configurable.group.other",
-    "vue.rearranger.settings.migration": "true"
+    "vue.rearranger.settings.migration": "true",
+    "应用程序.LamdbaTest.executor": "Run"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -62,7 +77,20 @@
       <recent name="D:\IntelliJ IDEA 2022.3.1\workspace\Bushiyun\src" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="应用程序.LamdbaTest">
+    <configuration name="LamdbaTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ForTest.LamdbaTest" />
+      <module name="Bushiyun" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ForTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Test8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ForTest.Test8" />
       <module name="Bushiyun" />
@@ -78,13 +106,21 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="应用程序.Test8" />
+        <item itemvalue="应用程序.LamdbaTest" />
         <item itemvalue="应用程序.Test8" />
         <item itemvalue="应用程序.Test8" />
         <item itemvalue="应用程序.Test8" />
         <item itemvalue="应用程序.Test8" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.23892.409" />
+        <option value="bundled-js-predefined-d6986cc7102b-e03c56caf84a-JavaScript-IU-252.23892.409" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -95,6 +131,8 @@
       <option name="presentableId" value="Default" />
       <updated>1701762124807</updated>
       <workItem from="1701762126161" duration="746000" />
+      <workItem from="1757085408783" duration="2000" />
+      <workItem from="1757085413643" duration="305000" />
     </task>
     <task id="LOCAL-00001" summary="入库">
       <created>1701762590490</created>
