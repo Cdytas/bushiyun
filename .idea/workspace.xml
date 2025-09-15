@@ -5,7 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="62ec2f87-ee2d-44a5-90e7-042ba8147937" name="更改" comment="push">
+      <change afterPath="$PROJECT_DIR$/src/main/java/codeforce/contest/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/codeforce/contest/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/codeforce/contest/C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/codeforce/contest/C2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/codeforce/contest/D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/codeforce/test/Test2148D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/manager/AccurateExcelRowCounter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/manager/ExcelFileCheckManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ForTest/Test5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ForTest/Test5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ForTest/test9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ForTest/test9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ForTest/Test5.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ForTest/Test5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ForTest/test9.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ForTest/test9.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,6 +29,13 @@
   <component name="ComposerSettings">
     <execution />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
@@ -23,39 +44,53 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Cdytas"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Cdytas&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Cdytas/bushiyun.git",
-    "accountId": "3dc56f04-48cb-4fd2-9cde-1a73849d7e7c"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Cdytas/bushiyun.git&quot;,
+    &quot;accountId&quot;: &quot;3dc56f04-48cb-4fd2-9cde-1a73849d7e7c&quot;
   }
-}]]></component>
+}</component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\Maven\repository" />
+        <option name="useMavenConfig" value="false" />
+        <option name="userSettingsFile" value="D:\Maven\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
   <component name="ProjectId" id="2Z79CgvUJystigJNZWcxxOixzum" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Maven.Bushiyun [clean].executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "b1",
+    "deletionFromPopupRequiresConfirmation": "false",
+    "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/IntelliJ IDEA 2022.3.1/workspace/Bushiyun",
+    "last_opened_file_path": "D:/IntelliJ IDEA 2025.2/workspace/bushiyun",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -64,9 +99,15 @@
     "project.structure.last.edited": "模块",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "configurable.group.other",
+    "settings.editor.selected.configurable": "MavenSettings",
     "vue.rearranger.settings.migration": "true",
-    "应用程序.LamdbaTest.executor": "Run"
+    "应用程序.A.executor": "Run",
+    "应用程序.B.executor": "Run",
+    "应用程序.C.executor": "Run",
+    "应用程序.LamdbaTest.executor": "Run",
+    "应用程序.Test10.executor": "Run",
+    "应用程序.Test5.executor": "Run",
+    "应用程序.test9.executor": "Debug"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -75,9 +116,48 @@
       <recent name="D:\IntelliJ IDEA 2022.3.1\workspace\Bushiyun\src" />
     </key>
   </component>
-  <component name="RunManager" selected="应用程序.LamdbaTest">
-    <configuration name="LamdbaTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ForTest.LamdbaTest" />
+  <component name="RunManager" selected="应用程序.C">
+    <configuration name="A" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codeforce.contest.A" />
+      <module name="Bushiyun" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="codeforce.contest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="B" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codeforce.contest.B" />
+      <module name="Bushiyun" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="codeforce.contest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codeforce.contest.C" />
+      <module name="Bushiyun" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="codeforce.contest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ForTest.Test5" />
       <module name="Bushiyun" />
       <extension name="coverage">
         <pattern>
@@ -89,8 +169,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ForTest.Test8" />
+    <configuration name="test9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ForTest.test9" />
       <module name="Bushiyun" />
       <extension name="coverage">
         <pattern>
@@ -104,11 +184,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="应用程序.LamdbaTest" />
-        <item itemvalue="应用程序.Test8" />
-        <item itemvalue="应用程序.Test8" />
-        <item itemvalue="应用程序.Test8" />
-        <item itemvalue="应用程序.Test8" />
+        <item itemvalue="应用程序.C" />
+        <item itemvalue="应用程序.B" />
+        <item itemvalue="应用程序.A" />
+        <item itemvalue="应用程序.test9" />
+        <item itemvalue="应用程序.Test5" />
       </list>
     </recent_temporary>
   </component>
@@ -130,7 +210,14 @@
       <updated>1701762124807</updated>
       <workItem from="1701762126161" duration="746000" />
       <workItem from="1757085408783" duration="2000" />
-      <workItem from="1757085413643" duration="1988000" />
+      <workItem from="1757085413643" duration="2272000" />
+      <workItem from="1757231373298" duration="982000" />
+      <workItem from="1757344216817" duration="1000" />
+      <workItem from="1757428846726" duration="1588000" />
+      <workItem from="1757604399885" duration="1758000" />
+      <workItem from="1757774579490" duration="3894000" />
+      <workItem from="1757860507189" duration="3154000" />
+      <workItem from="1757945388581" duration="7313000" />
     </task>
     <task id="LOCAL-00001" summary="入库">
       <created>1701762590490</created>
@@ -155,15 +242,38 @@
       <option name="project" value="LOCAL" />
       <updated>1757085938863</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="push">
+      <option name="closed" value="true" />
+      <created>1757087713592</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1757087713592</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="入库" />
     <MESSAGE value="push" />
     <option name="LAST_COMMIT_MESSAGE" value="push" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
