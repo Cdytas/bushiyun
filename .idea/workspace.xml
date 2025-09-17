@@ -4,22 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="62ec2f87-ee2d-44a5-90e7-042ba8147937" name="更改" comment="push">
-      <change afterPath="$PROJECT_DIR$/src/main/java/codeforce/contest/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/codeforce/contest/B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/codeforce/contest/C.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/codeforce/contest/C2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/codeforce/contest/D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/codeforce/test/Test2148D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/manager/AccurateExcelRowCounter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/manager/ExcelFileCheckManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+    <list default="true" id="62ec2f87-ee2d-44a5-90e7-042ba8147937" name="更改" comment="codeforce 2025/9/16">
+      <change afterPath="$PROJECT_DIR$/src/main/java/codeforce/contest/round1051/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/codeforce/contest/round1051/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/codeforce/contest/round1051/C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/codeforce/contest/round1051/D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/codeforce/contest/round989/C.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ForTest/Test5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ForTest/Test5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ForTest/test9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ForTest/test9.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ForTest/Test5.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ForTest/Test5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ForTest/test9.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ForTest/test9.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,9 +95,13 @@
     "应用程序.A.executor": "Run",
     "应用程序.B.executor": "Run",
     "应用程序.C.executor": "Run",
+    "应用程序.D.executor": "Run",
     "应用程序.LamdbaTest.executor": "Run",
     "应用程序.Test10.executor": "Run",
     "应用程序.Test5.executor": "Run",
+    "应用程序.codeforce.contest.round1051.A.executor": "Run",
+    "应用程序.codeforce.contest.round1051.B.executor": "Run",
+    "应用程序.codeforce.contest.round989.C.executor": "Run",
     "应用程序.test9.executor": "Debug"
   }
 }]]></component>
@@ -116,33 +111,7 @@
       <recent name="D:\IntelliJ IDEA 2022.3.1\workspace\Bushiyun\src" />
     </key>
   </component>
-  <component name="RunManager" selected="应用程序.C">
-    <configuration name="A" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="codeforce.contest.A" />
-      <module name="Bushiyun" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="codeforce.contest.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="B" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="codeforce.contest.B" />
-      <module name="Bushiyun" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="codeforce.contest.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="应用程序.D">
     <configuration name="C" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="codeforce.contest.C" />
       <module name="Bushiyun" />
@@ -156,12 +125,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ForTest.Test5" />
+    <configuration name="D" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codeforce.contest.round1051.D" />
       <module name="Bushiyun" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ForTest.*" />
+          <option name="PATTERN" value="codeforce.contest.round1051.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -169,12 +138,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ForTest.test9" />
+    <configuration name="codeforce.contest.round1051.A" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codeforce.contest.round1051.A" />
       <module name="Bushiyun" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ForTest.*" />
+          <option name="PATTERN" value="codeforce.contest.round1051.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="codeforce.contest.round1051.B" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codeforce.contest.round1051.B" />
+      <module name="Bushiyun" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="codeforce.contest.round1051.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="codeforce.contest.round989.C" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codeforce.contest.round989.C" />
+      <module name="Bushiyun" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="codeforce.contest.round989.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -184,11 +179,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.D" />
+        <item itemvalue="应用程序.codeforce.contest.round1051.B" />
+        <item itemvalue="应用程序.codeforce.contest.round1051.A" />
+        <item itemvalue="应用程序.codeforce.contest.round989.C" />
         <item itemvalue="应用程序.C" />
-        <item itemvalue="应用程序.B" />
-        <item itemvalue="应用程序.A" />
-        <item itemvalue="应用程序.test9" />
-        <item itemvalue="应用程序.Test5" />
       </list>
     </recent_temporary>
   </component>
@@ -217,7 +212,9 @@
       <workItem from="1757604399885" duration="1758000" />
       <workItem from="1757774579490" duration="3894000" />
       <workItem from="1757860507189" duration="3154000" />
-      <workItem from="1757945388581" duration="7313000" />
+      <workItem from="1757945388581" duration="7614000" />
+      <workItem from="1758037758103" duration="1251000" />
+      <workItem from="1758120204076" duration="6478000" />
     </task>
     <task id="LOCAL-00001" summary="入库">
       <created>1701762590490</created>
@@ -250,7 +247,15 @@
       <option name="project" value="LOCAL" />
       <updated>1757087713592</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="codeforce 2025/9/16">
+      <option name="closed" value="true" />
+      <created>1757953055991</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1757953055991</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -270,7 +275,23 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="入库" />
     <MESSAGE value="push" />
-    <option name="LAST_COMMIT_MESSAGE" value="push" />
+    <MESSAGE value="codeforce 2025/9/16" />
+    <option name="LAST_COMMIT_MESSAGE" value="codeforce 2025/9/16" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/codeforce/contest/round1051/B.java</url>
+          <line>7</line>
+          <properties class="codeforce.contest.round1051.B" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
