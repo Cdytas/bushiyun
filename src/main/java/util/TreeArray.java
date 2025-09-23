@@ -1,4 +1,4 @@
-package TreeArray;
+package util;
 
 public class TreeArray {
     private int[] tree;

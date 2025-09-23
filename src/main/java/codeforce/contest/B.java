@@ -1,60 +1,91 @@
-package codeforce.contest;
 
-import java.util.HashSet;
-import java.util.Scanner;
-import java.util.Set;
+
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStreamReader;
+import java.math.BigInteger;
+import java.util.*;
 
 public class B {
-    public static void main(String[] args) {
-        Scanner input = new Scanner(System.in);
-        int t = input.nextInt();
+
+    public static void main(String[] args) throws IOException {
+        int t = Reader.nextInt();
         for (int i = 0; i < t; i++) {
-            int n = input.nextInt();
-            int[] arr = new int[n];
+            int n = Reader.nextInt();
+            int m = Reader.nextInt();
+            int[] cnt = new int[m + 1];
+            Map<Integer, Integer> memo = new HashMap<>();
             Set<Integer> set = new HashSet<>();
-            for (int j = 0; j < n; j++) {
-                arr[j] = input.nextInt();
-                if (arr[j] != 0) {
-                    set.add(arr[j]);
-                }
-            }
-            int cnt = n - set.size();
-            int left = n;
-            int right = -1;
 
-            for (int j = 0; j < n; j++) {
-                if (arr[j] == 0) {
-                    if (cnt > 1 || set.contains(j + 1)) { // 可以错位填
-                        left = j;
-                        break;
-                    }
-                } else {
-                    if (arr[j] != j + 1) {
-                        left = j;
-                        break;
+            for (int j = 1; j <= n; j++) {
+                int l  = Reader.nextInt();
+                for (int k = 0; k < l; k++) {
+                    int x = Reader.nextInt();
+                    cnt[x]++;
+                    if (cnt[x] == 1) {
+                        memo.put(x, j);
                     }
                 }
             }
 
-            for (int j = n - 1; j >= 0; j--) {
-                if (arr[j] == 0) {
-                    if (cnt > 1 || set.contains(j + 1)) {
-                        right = j;
-                        break;
-                    }
-                } else {
-                    if (arr[j] != j + 1) {
-                        right = j;
-                        break;
+            boolean flag = true;
+            for (int j = 1; j <= m; j++) {
+                if (cnt[j] == 0) {
+                    flag = false;
+                    break;
+                }
+            }
+            if (!flag) {
+                System.out.println("NO");
+                continue;
+            }
+
+            int necessary = 0;
+            for (int x = 1; x <= m; x++) {
+                if (cnt[x] == 1) {
+                    int index = memo.get(x);
+                    if (!set.contains(index)) {
+                        necessary++;
+                        set.add(index);
                     }
                 }
             }
 
-            if (left >= right) {
-                System.out.println(0);
+            if (necessary < n - 1) {
+                System.out.println("YES");
             } else {
-                System.out.println(right - left + 1);
+                System.out.println("NO");
             }
+        }
+    }
+
+    static class Reader {
+        static BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+        static StringTokenizer tokenizer = new StringTokenizer("");
+
+        // 读取下一行字符串
+        static String nextLine() throws IOException {
+            return br.readLine();
+        }
+
+        // 读取下一个字符串
+        static String next() throws IOException {
+            while (!tokenizer.hasMoreTokens()) {
+                tokenizer = new StringTokenizer(br.readLine());
+            }
+            return tokenizer.nextToken();
+        }
+
+        static int nextInt() throws IOException {
+            return Integer.parseInt(next());
+        }
+
+        static double nextDouble() throws IOException {
+            return Double.parseDouble(next());
+        }
+
+        static BigInteger nextBingInteger() throws IOException {
+            return new BigInteger(nextLine(), 10);
         }
     }
 }

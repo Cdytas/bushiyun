@@ -1,62 +1,91 @@
 package codeforce.contest;
 
-import java.util.Arrays;
-import java.util.HashSet;
-import java.util.Scanner;
-import java.util.Set;
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStreamReader;
+import java.math.BigInteger;
+import java.util.*;
 
 public class C {
-    static int MOD = 998244353;
-    public static void main(String[] args) {
-        Scanner input = new Scanner(System.in);
-        int t = input.nextInt();
+
+    public static void main(String[] args) throws IOException {
+        int t = Reader.nextInt();
         for (int i = 0; i < t; i++) {
-            int n = input.nextInt();
-            int[] arr1 = new int[n];
-            int[] arr2 = new int[n];
-            int[][] memo = new int[2][n];
-            for (int j = 0; j < n; j++) {
-                arr1[j] = input.nextInt();
+            int n = Reader.nextInt();
+            int m = Reader.nextInt();
+            int[] cnt = new int[m + 1];
+            Map<Integer, Integer> memo = new HashMap<>();
+            Set<Integer> set = new HashSet<>();
+
+            for (int j = 1; j <= n; j++) {
+                int l  = Reader.nextInt();
+                for (int k = 0; k < l; k++) {
+                    int x = Reader.nextInt();
+                    cnt[x]++;
+                    if (cnt[x] == 1) {
+                        memo.put(x, j);
+                    }
+                }
             }
-            for (int j = 0; j < n; j++) {
-                arr2[j] = input.nextInt();
+
+            boolean flag = true;
+            for (int j = 1; j <= m; j++) {
+                if (cnt[j] == 0) {
+                    flag = false;
+                    break;
+                }
             }
-            for (int j = 0; j < 2; j++) {
-                Arrays.fill(memo[j], -1);
+            if (!flag) {
+                System.out.println("NO");
+                continue;
             }
-            int res = f(0, 0, arr1, arr2, memo);
-            System.out.println(res);
+
+            int necessary = 0;
+            for (int x = 1; x <= m; x++) {
+                if (cnt[x] == 1) {
+                    int index = memo.get(x);
+                    if (!set.contains(index)) {
+                        necessary++;
+                        set.add(index);
+                    }
+                }
+            }
+
+            if (necessary < n - 1) {
+                System.out.println("YES");
+            } else {
+                System.out.println("NO");
+            }
         }
     }
 
-    public static int f(int preChange, int i, int[] a, int[] b, int[][] memo) {
-        if (i == a.length) {
-            return 1;
+    static class Reader {
+        static BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+        static StringTokenizer tokenizer = new StringTokenizer("");
+
+        // 读取下一行字符串
+        static String nextLine() throws IOException {
+            return br.readLine();
         }
-        if (memo[preChange][i] != -1) {
-            return memo[preChange][i];
+
+        // 读取下一个字符串
+        static String next() throws IOException {
+            while (!tokenizer.hasMoreTokens()) {
+                tokenizer = new StringTokenizer(br.readLine());
+            }
+            return tokenizer.nextToken();
         }
-        int res = 0;
-        if (i == 0) {
-            res = (res + f(0, i + 1, a, b, memo)) % MOD;
-            res = (res + f(1, i + 1, a, b, memo)) % MOD;
-            return memo[preChange][i] = res;
+
+        static int nextInt() throws IOException {
+            return Integer.parseInt(next());
         }
-        if (preChange == 0) {
-            if (a[i] >= a[i - 1] && b[i] >= b[i - 1]) { // 可以不交换
-                res  = (res + f(0, i + 1, a, b, memo)) % MOD;
-            }
-            if (a[i] >= b[i - 1] && b[i] >= a[i - 1]) { // 交换
-                res  = (res + f(1, i + 1, a, b, memo)) % MOD;
-            }
-        } else {
-            if (a[i] >= b[i - 1] && b[i] >= a[i - 1]) {
-                res  = (res + f(0, i + 1, a, b, memo)) % MOD;
-            }
-            if (a[i] >= a[i - 1] && b[i] >= b[i - 1]) {
-                res  = (res + f(1, i + 1, a, b, memo)) % MOD;
-            }
+
+        static double nextDouble() throws IOException {
+            return Double.parseDouble(next());
         }
-        return  memo[preChange][i] = res;
+
+        static BigInteger nextBingInteger() throws IOException {
+            return new BigInteger(nextLine(), 10);
+        }
     }
 }
