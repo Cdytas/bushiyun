@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="62ec2f87-ee2d-44a5-90e7-042ba8147937" name="更改" comment="2025/9/223" />
+    <list default="true" id="62ec2f87-ee2d-44a5-90e7-042ba8147937" name="更改" comment="2025/9/27">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ForTest/MovieRentingSystem.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -216,6 +219,7 @@
       <workItem from="1758424014589" duration="899000" />
       <workItem from="1758463453008" duration="8622000" />
       <workItem from="1758642559549" duration="76000" />
+      <workItem from="1758951139970" duration="1730000" />
     </task>
     <task id="LOCAL-00001" summary="入库">
       <created>1701762590490</created>
@@ -280,7 +284,15 @@
       <option name="project" value="LOCAL" />
       <updated>1758642630979</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="2025/9/27">
+      <option name="closed" value="true" />
+      <created>1758951217951</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1758951217951</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -304,7 +316,8 @@
     <MESSAGE value="codeforce 2025/9/17" />
     <MESSAGE value="Reader 2025/9/20" />
     <MESSAGE value="2025/9/223" />
-    <option name="LAST_COMMIT_MESSAGE" value="2025/9/223" />
+    <MESSAGE value="2025/9/27" />
+    <option name="LAST_COMMIT_MESSAGE" value="2025/9/27" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
