@@ -1,4 +1,4 @@
-package Sort;
+package sort;
 
 public class Sort {
     public static void ExchangeForInt(int[] a, int i, int j){

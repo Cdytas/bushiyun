@@ -1,7 +1,4 @@
 package ForTest;
-import Sort.Sort;
-
-import java.util.Arrays;
 
 public class Test7 {
     public static void main(String[] args) {

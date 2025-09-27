@@ -1,5 +1,5 @@
-package Sort;
-import Sort.Sort;
+package sort;
+
 public class HeapSort {
 
 

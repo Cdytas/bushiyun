@@ -1,4 +1,4 @@
-package Sort;
+package sort;
 
 public class BubbleSort {
     public static void BubbleSort1(int[] a){   //升序

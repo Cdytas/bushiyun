@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="62ec2f87-ee2d-44a5-90e7-042ba8147937" name="更改" comment="Reader 2025/9/20">
-      <change afterPath="$PROJECT_DIR$/src/main/java/util/St.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ForTest/Test5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ForTest/Test5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/TreeArray/TreeArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/util/TreeArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/codeforce/contest/A.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codeforce/contest/A.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/codeforce/contest/B.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codeforce/contest/B.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/codeforce/contest/C.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codeforce/contest/C.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/codeforce/contest/D.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codeforce/contest/D.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ForTest/Test5.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ForTest/Test5.class" afterDir="false" />
-    </list>
+    <list default="true" id="62ec2f87-ee2d-44a5-90e7-042ba8147937" name="更改" comment="2025/9/223" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -73,43 +63,43 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Maven.Bushiyun [clean].executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "deletionFromPopupRequiresConfirmation": "false",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/IntelliJ IDEA 2025.2/workspace/bushiyun",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "模块",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "MavenSettings",
-    "vue.rearranger.settings.migration": "true",
-    "应用程序.A.executor": "Run",
-    "应用程序.B.executor": "Run",
-    "应用程序.C.executor": "Run",
-    "应用程序.D.executor": "Run",
-    "应用程序.LamdbaTest.executor": "Run",
-    "应用程序.Test10.executor": "Run",
-    "应用程序.Test5.executor": "Run",
-    "应用程序.codeforce.contest.D.executor": "Run",
-    "应用程序.codeforce.contest.round1051.A.executor": "Run",
-    "应用程序.codeforce.contest.round1051.B.executor": "Run",
-    "应用程序.codeforce.contest.round989.C.executor": "Run",
-    "应用程序.test9.executor": "Debug"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Maven.Bushiyun [clean].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;deletionFromPopupRequiresConfirmation&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/IntelliJ IDEA 2025.2/workspace/bushiyun&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;模块&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;MavenSettings&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;,
+    &quot;应用程序.A.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.B.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.C.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.D.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.LamdbaTest.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.Test10.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.Test5.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.codeforce.contest.D.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.codeforce.contest.round1051.A.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.codeforce.contest.round1051.B.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.codeforce.contest.round989.C.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.test9.executor&quot;: &quot;Debug&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\IntelliJ IDEA 2022.3.1\workspace\Bushiyun\src\main\java" />
@@ -225,6 +215,7 @@
       <workItem from="1758338553233" duration="10761000" />
       <workItem from="1758424014589" duration="899000" />
       <workItem from="1758463453008" duration="8622000" />
+      <workItem from="1758642559549" duration="76000" />
     </task>
     <task id="LOCAL-00001" summary="入库">
       <created>1701762590490</created>
@@ -281,7 +272,15 @@
       <option name="project" value="LOCAL" />
       <updated>1758376968947</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="2025/9/223">
+      <option name="closed" value="true" />
+      <created>1758642630979</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1758642630979</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -304,7 +303,8 @@
     <MESSAGE value="codeforce 2025/9/16" />
     <MESSAGE value="codeforce 2025/9/17" />
     <MESSAGE value="Reader 2025/9/20" />
-    <option name="LAST_COMMIT_MESSAGE" value="Reader 2025/9/20" />
+    <MESSAGE value="2025/9/223" />
+    <option name="LAST_COMMIT_MESSAGE" value="2025/9/223" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

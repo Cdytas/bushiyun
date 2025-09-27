@@ -1,5 +1,5 @@
 package ForTest;
-import Sort.Sort;
+import sort.Sort;
 
 public class Test1 {
     public static void main(String[] args) {

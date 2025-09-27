@@ -1,6 +1,6 @@
 package WithWeight_DirectedGraph;
 
-import Sort.IndexMinPriorityQueue;
+import sort.IndexMinPriorityQueue;
 
 import java.util.Stack;
 
