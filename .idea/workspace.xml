@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="62ec2f87-ee2d-44a5-90e7-042ba8147937" name="更改" comment="2025/9/27">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ForTest/MovieRentingSystem.java" beforeDir="false" />
-    </list>
+    <list default="true" id="62ec2f87-ee2d-44a5-90e7-042ba8147937" name="更改" comment="2025/9/27" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -219,7 +216,7 @@
       <workItem from="1758424014589" duration="899000" />
       <workItem from="1758463453008" duration="8622000" />
       <workItem from="1758642559549" duration="76000" />
-      <workItem from="1758951139970" duration="1730000" />
+      <workItem from="1758951139970" duration="1837000" />
     </task>
     <task id="LOCAL-00001" summary="入库">
       <created>1701762590490</created>
@@ -292,7 +289,15 @@
       <option name="project" value="LOCAL" />
       <updated>1758951217951</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="2025/9/27">
+      <option name="closed" value="true" />
+      <created>1758956099604</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1758956099604</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
