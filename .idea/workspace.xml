@@ -4,303 +4,77 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="62ec2f87-ee2d-44a5-90e7-042ba8147937" name="更改" comment="2025/9/27">
-      <change afterPath="$PROJECT_DIR$/src/main/java/codeforce/contest/E.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/codeforce/contest/F.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="62ec2f87-ee2d-44a5-90e7-042ba8147937" name="更改" comment="huge feature">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ForTest/Test5.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ForTest/Test8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ForTest/Test8.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ForTest/test9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ForTest/test9.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/codeforce/contest/A.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codeforce/contest/A.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/codeforce/contest/B.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codeforce/contest/B.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/codeforce/contest/C.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codeforce/contest/C.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/codeforce/contest/D.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codeforce/contest/D.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/codeforce/contest/round1051/A.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/codeforce/contest/round1051/B.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/codeforce/contest/round1051/C.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/codeforce/contest/round1051/D.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/codeforce/contest/round989/C.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/codeforce/test/Test2148D.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codeforce/test/Test2148D.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/xiaozibei/ArraylistTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/xiaojiaoer/ArraylistTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/xiaozibei/BUBBLE.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/xiaojiaoer/BUBBLE.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/xiaozibei/LOVE.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/xiaojiaoer/LOVE.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/xiaozibei/LeapYear.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/xiaojiaoer/LeapYear.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/xiaozibei/LotteryOfMYX.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/xiaojiaoer/LotteryOfMYX.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/xiaozibei/OulaShai.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/xiaojiaoer/OulaShai.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/xiaozibei/PAC.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/xiaojiaoer/PAC.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/xiaozibei/StringbuildTset.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/xiaojiaoer/StringbuildTset.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/xiaozibei/binary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/xiaojiaoer/binary.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/xiaozibei/douyin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/xiaojiaoer/douyin.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/xiaozibei/lottery.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/xiaojiaoer/lottery.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/DirectedGraph/BFSPaths.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DirectedGraph/BFSPaths.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/DirectedGraph/DFSPaths.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DirectedGraph/DFSPaths.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/DirectedGraph/DepthFirstOrder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DirectedGraph/DepthFirstOrder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/DirectedGraph/Digraph.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DirectedGraph/Digraph.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/DirectedGraph/DirectedCycle.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DirectedGraph/DirectedCycle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/DirectedGraph/DirectedDFS.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DirectedGraph/DirectedDFS.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/DirectedGraph/KosarajuSCC.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DirectedGraph/KosarajuSCC.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/DirectedGraph/Topological.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DirectedGraph/Topological.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ForTest/ArraysfillTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ForTest/ArraysfillTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ForTest/DequeAndQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ForTest/DequeAndQueue.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ForTest/DinnerPlates.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ForTest/DinnerPlates.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ForTest/Fu.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ForTest/Fu.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ForTest/LamdbaTest$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ForTest/LamdbaTest$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ForTest/LamdbaTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ForTest/LamdbaTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ForTest/MergeOfHashMap.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ForTest/MergeOfHashMap.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ForTest/StackTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ForTest/StackTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ForTest/StringMethodTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ForTest/StringMethodTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ForTest/Test1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ForTest/Test1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ForTest/Test2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ForTest/Test2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ForTest/Test3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ForTest/Test3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ForTest/Test5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ForTest/Test6.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ForTest/Test6.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ForTest/Test7.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ForTest/Test7.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ForTest/Test8.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ForTest/Test8.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ForTest/nextline.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ForTest/nextline.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ForTest/swkitch.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ForTest/swkitch.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ForTest/test9.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ForTest/test9.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Leetcode/LCP03.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Leetcode/LCP06.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Leetcode/LCP08.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Leetcode/ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Leetcode/ListNode1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Leetcode/leetcode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Leetcode/leetcode1023.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Leetcode/leetcode1030.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Leetcode/leetcode1042.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Leetcode/leetcode1048.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Leetcode/leetcode1061.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Leetcode/leetcode1091.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Leetcode/leetcode1125.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Leetcode/leetcode1147.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Leetcode/leetcode1157.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Leetcode/leetcode12.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Leetcode/leetcode122.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Leetcode/leetcode1288.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Leetcode/leetcode1335.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Leetcode/leetcode134.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Leetcode/leetcode1377.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Leetcode/leetcode1397.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Leetcode/leetcode140.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Leetcode/leetcode143.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Leetcode/leetcode1439.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Leetcode/leetcode146$DoubleNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Leetcode/leetcode146$LRUCache.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Leetcode/leetcode146.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Leetcode/leetcode148.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Leetcode/leetcode15.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Leetcode/leetcode150.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Leetcode/leetcode151.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Leetcode/leetcode1604.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Leetcode/leetcode1605.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Leetcode/leetcode1615.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Leetcode/leetcode1642.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Leetcode/leetcode168.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Leetcode/leetcode1681.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Leetcode/leetcode1792.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Leetcode/leetcode1801.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Leetcode/leetcode1805.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Leetcode/leetcode1807.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Leetcode/leetcode1813.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Leetcode/leetcode1814.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Leetcode/leetcode1817.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Leetcode/leetcode187.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Leetcode/leetcode1879.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Leetcode/leetcode2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Leetcode/leetcode20.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Leetcode/leetcode2042.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Leetcode/leetcode205.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Leetcode/leetcode209.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Leetcode/leetcode2106.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Leetcode/leetcode2140.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Leetcode/leetcode2172.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Leetcode/leetcode23.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Leetcode/leetcode2303.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Leetcode/leetcode2305.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Leetcode/leetcode2325.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Leetcode/leetcode2367.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Leetcode/leetcode240.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Leetcode/leetcode2488.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Leetcode/leetcode25.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Leetcode/leetcode2507.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Leetcode/leetcode2521.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Leetcode/leetcode2570.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Leetcode/leetcode2576.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Leetcode/leetcode2585.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Leetcode/leetcode28.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Leetcode/leetcode29.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Leetcode/leetcode3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Leetcode/leetcode300.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Leetcode/leetcode31.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Leetcode/leetcode315.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Leetcode/leetcode322.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Leetcode/leetcode328.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Leetcode/leetcode33.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Leetcode/leetcode332.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Leetcode/leetcode38.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Leetcode/leetcode393.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Leetcode/leetcode394.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Leetcode/leetcode4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Leetcode/leetcode400.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Leetcode/leetcode415.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Leetcode/leetcode42.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Leetcode/leetcode435.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Leetcode/leetcode438.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Leetcode/leetcode45.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Leetcode/leetcode46.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Leetcode/leetcode5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Leetcode/leetcode51.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Leetcode/leetcode54.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Leetcode/leetcode541.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Leetcode/leetcode557.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Leetcode/leetcode592.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Leetcode/leetcode6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Leetcode/leetcode6237.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Leetcode/leetcode6338.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Leetcode/leetcode6353.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Leetcode/leetcode6357.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Leetcode/leetcode6441.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Leetcode/leetcode67.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Leetcode/leetcode69.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Leetcode/leetcode7.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Leetcode/leetcode73.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Leetcode/leetcode738.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Leetcode/leetcode75.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Leetcode/leetcode791.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Leetcode/leetcode792.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Leetcode/leetcode8.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Leetcode/leetcode844.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Leetcode/leetcode93.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Leetcode/leetcode97.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Leetcode/leetcode970.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Leetcode/leetcode996.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Number10/Factorial.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Number10/StackOfInteger.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Number10/Ten108.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Number10/Ten12.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Number10/Ten4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Number10/TestStack.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Number10/iNTEGER.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Number10/zhuliuceshi.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Number11/A.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Number11/B.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Number11/C.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Number11/D.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Number11/Eleven85.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Number11/Eleven86.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Number11/Eleven87.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Number11/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Number11/Student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Number11/zcasf.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/PAT/intergerChangeTOarray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/PAT/pat1009.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/PAT/pat1019.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/PAT/pat1099.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Sort/BubbleSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Sort/BubbleSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Sort/HeapSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Sort/HeapSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Sort/IndexMinPriorityQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Sort/IndexMinPriorityQueue.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Sort/SelectSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Sort/SelectSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Sort/Sort.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Sort/Sort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/UndirectedGraph/BreadthFirstPaths.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/UndirectedGraph/BreadthFirstPaths.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/UndirectedGraph/CC.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/UndirectedGraph/CC.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/UndirectedGraph/Cycle.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/UndirectedGraph/Cycle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/UndirectedGraph/DepthFirstPaths.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/UndirectedGraph/DepthFirstPaths.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/UndirectedGraph/DepthFirstSearch.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/UndirectedGraph/DepthFirstSearch.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/UndirectedGraph/Graph.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/UndirectedGraph/Graph.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/UndirectedGraph/TwoColor.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/UndirectedGraph/TwoColor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/UndirectedGraph/UnionFind.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/UndirectedGraph/UnionFind.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/WithWeight_DirectedGraph/DijkstraSP.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/WithWeight_DirectedGraph/DijkstraSP.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/WithWeight_DirectedGraph/DirectedEdge.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/WithWeight_DirectedGraph/DirectedEdge.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/WithWeight_DirectedGraph/EdgeWeightedDigraph.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/WithWeight_DirectedGraph/EdgeWeightedDigraph.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/WithWeight_UndirectedGraph/Edge.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/WithWeight_UndirectedGraph/Edge.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/WithWeight_UndirectedGraph/EdgeWeightedGraph.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/WithWeight_UndirectedGraph/EdgeWeightedGraph.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/WithWeight_UndirectedGraph/KruskalMST.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/WithWeight_UndirectedGraph/KruskalMST.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/WithWeight_UndirectedGraph/LazyPrimMST.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/WithWeight_UndirectedGraph/LazyPrimMST.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/codeforce/Reader.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/codeforce/Reader.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/codeforce/contest/A$Reader.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/codeforce/contest/A.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/codeforce/contest/B$Reader.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/codeforce/contest/B.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/codeforce/contest/C$Reader.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/codeforce/contest/C.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/codeforce/contest/D$Reader.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/codeforce/contest/D.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/codeforce/contest/round1051/A.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/codeforce/contest/round1051/B.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/codeforce/contest/round1051/C.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/codeforce/contest/round1051/D.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/codeforce/contest/round989/C.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/codeforce/test/Test2148D.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/codeforce/test/Test2148D.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/manager/AccurateExcelRowCounter$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/manager/AccurateExcelRowCounter$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/manager/AccurateExcelRowCounter$ExcelCountResult.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/manager/AccurateExcelRowCounter$ExcelCountResult.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/manager/AccurateExcelRowCounter$SheetCount.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/manager/AccurateExcelRowCounter$SheetCount.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/manager/AccurateExcelRowCounter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/manager/AccurateExcelRowCounter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/manager/ExcelFileCheckManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/manager/ExcelFileCheckManager.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/number12/Number12test1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/number12/Number12test2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/number12/Number12test3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/number12/Number12test4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/number12/Number12test5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/number12/Number12test6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/number12/hexTodec.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/number12/number122.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/number12/number123.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/number12/number126.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/number13/A.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/number13/B.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/number13/Complex.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/number13/number13test1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/number13/number13test3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/number13/number13test4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/number13/number13test5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/number18/DiguiSelectSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/number18/DiguiZhishu.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/number18/Int_reverser.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/number18/SelectSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/number18/easy.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/number18/erroeTest1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/number18/errorTest2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/number6/LeapYear.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/number6/Six17.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/number6/Six18.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/number6/Six2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/number6/Six26.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/number6/Six27.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/number6/Six28.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/number6/Six29.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/number6/Six3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/number6/Six33.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/number6/Six4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/number6/Six5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/number6/sushujudge.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/number7/tiaoshi.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/number9/Adasf.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/number9/Circle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/number9/Count.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/number9/Location.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/number9/Nine13.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/number9/Nine9.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/number9/RegularPolygon.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/number9/Test9102.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/number9/Test9103.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/number9/Test9131.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/number9/tttest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/util/St.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/util/St.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/util/TreeArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/util/TreeArray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/xiaozibei/ArraylistTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/xiaozibei/BUBBLE.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/xiaozibei/LOVE.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/xiaozibei/LeapYear.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/xiaozibei/LotteryOfMYX.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/xiaozibei/OulaShai.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/xiaozibei/PAC.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/xiaozibei/StringbuildTset.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/xiaozibei/binary.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/xiaozibei/douyin.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/xiaozibei/lottery.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/数位DP/leetcode600.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/数位DP/leetcode600.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/数位DP/leetcode902.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/数位DP/leetcode902.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/barca/bushiyun/ForTest/test9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/barca/bushiyun/ForTest/test9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/barca/bushiyun/util/St.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/barca/bushiyun/util/St.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DirectedGraph/BFSPaths.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DirectedGraph/DFSPaths.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DirectedGraph/DepthFirstOrder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DirectedGraph/Digraph.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DirectedGraph/DirectedCycle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DirectedGraph/DirectedDFS.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DirectedGraph/KosarajuSCC.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DirectedGraph/Topological.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ForTest/ArraysfillTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ForTest/DequeAndQueue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ForTest/DinnerPlates.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ForTest/Fu.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ForTest/LamdbaTest$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ForTest/LamdbaTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ForTest/MergeOfHashMap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ForTest/StackTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ForTest/StringMethodTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ForTest/Test1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ForTest/Test2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ForTest/Test3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ForTest/Test6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ForTest/Test7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ForTest/Test8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ForTest/nextline.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ForTest/swkitch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ForTest/test9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/UndirectedGraph/BreadthFirstPaths.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/UndirectedGraph/CC.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/UndirectedGraph/Cycle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/UndirectedGraph/DepthFirstPaths.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/UndirectedGraph/DepthFirstSearch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/UndirectedGraph/Graph.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/UndirectedGraph/TwoColor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/UndirectedGraph/UnionFind.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/WithWeight_DirectedGraph/DijkstraSP.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/WithWeight_DirectedGraph/DirectedEdge.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/WithWeight_DirectedGraph/EdgeWeightedDigraph.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/WithWeight_UndirectedGraph/Edge.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/WithWeight_UndirectedGraph/EdgeWeightedGraph.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/WithWeight_UndirectedGraph/KruskalMST.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/WithWeight_UndirectedGraph/LazyPrimMST.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/codeforce/Reader.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/codeforce/contest/E$Reader.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/codeforce/contest/E.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/codeforce/contest/F$Reader.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/codeforce/contest/F.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/codeforce/test/Test2148D.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/manager/AccurateExcelRowCounter$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/manager/AccurateExcelRowCounter$ExcelCountResult.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/manager/AccurateExcelRowCounter$SheetCount.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/manager/AccurateExcelRowCounter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/manager/ExcelFileCheckManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/util/St.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/util/TreeArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/xiaojiaoer/ArraylistTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/xiaojiaoer/BUBBLE.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/xiaojiaoer/LOVE.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/xiaojiaoer/LeapYear.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/xiaojiaoer/LotteryOfMYX.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/xiaojiaoer/OulaShai.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/xiaojiaoer/PAC.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/xiaojiaoer/StringbuildTset.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/xiaojiaoer/binary.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/xiaojiaoer/douyin.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/xiaojiaoer/lottery.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/数位DP/leetcode600.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/数位DP/leetcode902.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -360,51 +134,51 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.test9.executor&quot;: &quot;Debug&quot;,
-    &quot;Maven.Bushiyun [clean].executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;deletionFromPopupRequiresConfirmation&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/IntelliJIDEA2025/workspace/bushiyun/pom.xml&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;模块&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.language.and.region&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;,
-    &quot;应用程序.A.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.B (1).executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.B.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.C (1).executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.C.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.D.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.E.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.LamdbaTest.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.Main.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.Test10.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.Test2148D.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.Test3.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.Test5.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.Test8.executor&quot;: &quot;Debug&quot;,
-    &quot;应用程序.codeforce.contest.D.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.codeforce.contest.round1051.A.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.codeforce.contest.round1051.B.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.codeforce.contest.round989.C.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.test9.executor&quot;: &quot;Run&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.test9.executor": "Debug",
+    "Maven.Bushiyun [clean].executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "deletionFromPopupRequiresConfirmation": "false",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/IntelliJIDEA2025/workspace/bushiyun",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "模块",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "vue.rearranger.settings.migration": "true",
+    "应用程序.A.executor": "Run",
+    "应用程序.B (1).executor": "Run",
+    "应用程序.B.executor": "Run",
+    "应用程序.C (1).executor": "Run",
+    "应用程序.C.executor": "Run",
+    "应用程序.D.executor": "Run",
+    "应用程序.E.executor": "Run",
+    "应用程序.LamdbaTest.executor": "Run",
+    "应用程序.Main.executor": "Run",
+    "应用程序.Test10.executor": "Run",
+    "应用程序.Test2148D.executor": "Run",
+    "应用程序.Test3.executor": "Run",
+    "应用程序.Test5.executor": "Run",
+    "应用程序.Test8.executor": "Debug",
+    "应用程序.codeforce.contest.D.executor": "Run",
+    "应用程序.codeforce.contest.round1051.A.executor": "Run",
+    "应用程序.codeforce.contest.round1051.B.executor": "Run",
+    "应用程序.codeforce.contest.round989.C.executor": "Run",
+    "应用程序.test9.executor": "Run"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\IntelliJ IDEA 2022.3.1\workspace\Bushiyun\src\main\java" />
@@ -469,7 +243,6 @@
     <attachedChunks>
       <set>
         <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.23892.409" />
-        <option value="bundled-js-predefined-d6986cc7102b-e03c56caf84a-JavaScript-IU-252.23892.409" />
       </set>
     </attachedChunks>
   </component>
@@ -651,7 +424,31 @@
       <option name="project" value="LOCAL" />
       <updated>1758965848228</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="huge feature">
+      <option name="closed" value="true" />
+      <created>1774884772731</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1774884772731</updated>
+    </task>
+    <task id="LOCAL-00016" summary="huge feature">
+      <option name="closed" value="true" />
+      <created>1774884785804</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1774884785804</updated>
+    </task>
+    <task id="LOCAL-00017" summary="huge feature">
+      <option name="closed" value="true" />
+      <created>1774884877090</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1774884877090</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -676,13 +473,14 @@
     <MESSAGE value="Reader 2025/9/20" />
     <MESSAGE value="2025/9/223" />
     <MESSAGE value="2025/9/27" />
-    <option name="LAST_COMMIT_MESSAGE" value="2025/9/27" />
+    <MESSAGE value="huge feature" />
+    <option name="LAST_COMMIT_MESSAGE" value="huge feature" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/main/java/codeforce/contest/round1051/B.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/com/barca/bushiyun/codeforce/contest/round1051/B.java</url>
           <line>7</line>
           <properties class="codeforce.contest.round1051.B">
             <option name="EMULATED" value="true" />
@@ -691,7 +489,7 @@
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/main/java/codeforce/contest/B.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/com/barca/bushiyun/codeforce/contest/B.java</url>
           <line>10</line>
           <properties class="B" method="main">
             <option name="EMULATED" value="true" />
@@ -700,7 +498,7 @@
           <option name="timeStamp" value="4" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/main/java/codeforce/contest/C.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/com/barca/bushiyun/codeforce/contest/C.java</url>
           <line>10</line>
           <properties class="C" method="main">
             <option name="EMULATED" value="true" />
@@ -709,18 +507,22 @@
           <option name="timeStamp" value="5" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/main/java/ForTest/Test8.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/com/barca/bushiyun/ForTest/Test8.java</url>
           <line>20</line>
-          <properties class="ForTest.Test8" method="numGoodSubarrays">
+          <properties class="com.barca.bushiyun.ForTest.Test8">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="9" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/ForTest/test9.java</url>
-          <line>38</line>
-          <option name="timeStamp" value="13" />
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/com/barca/bushiyun/ForTest/test9.java</url>
+          <line>13</line>
+          <properties class="com.barca.bushiyun.ForTest.test9" method="sortableIntegers">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="14" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
