@@ -10,53 +10,41 @@ public class B {
 
     public static void main(String[] args) throws IOException {
         int t = Reader.nextInt();
-        for (int i = 0; i < t; i++) {
+        for (int k = 0; k < t; k++) {
             int n = Reader.nextInt();
-            int m = Reader.nextInt();
-            int[] cnt = new int[m + 1];
-            Map<Integer, Integer> memo = new HashMap<>();
-            Set<Integer> set = new HashSet<>();
-
-            for (int j = 1; j <= n; j++) {
-                int l  = Reader.nextInt();
-                for (int k = 0; k < l; k++) {
-                    int x = Reader.nextInt();
-                    cnt[x]++;
-                    if (cnt[x] == 1) {
-                        memo.put(x, j);
-                    }
-                }
-            }
-
-            boolean flag = true;
-            for (int j = 1; j <= m; j++) {
-                if (cnt[j] == 0) {
-                    flag = false;
+            int q =  Reader.nextInt();
+            char[] s = Reader.nextLine().toCharArray();
+            boolean haveB = false;
+            for (char c : s) {
+                if (c == 'B') {
+                    haveB = true;
                     break;
                 }
             }
-            if (!flag) {
-                System.out.println("NO");
-                continue;
-            }
 
-            int necessary = 0;
-            for (int x = 1; x <= m; x++) {
-                if (cnt[x] == 1) {
-                    int index = memo.get(x);
-                    if (!set.contains(index)) {
-                        necessary++;
-                        set.add(index);
-                    }
+            for (int i = 0; i < q; i++) {
+                int a = Reader.nextInt();
+                if (!haveB) {
+                    System.out.println(a);
+                    continue;
                 }
-            }
 
-            if (necessary < n - 1) {
-                System.out.println("YES");
-            } else {
-                System.out.println("NO");
+                int j = 0;
+                int second = 0;
+                while (a > 0) {  // O(nloga)
+                    if (s[j] == 'A') {
+                        a--;
+                    } else {
+                        a /= 2;
+                    }
+                    second++;
+                    j = (j + 1) % n;
+                }
+                System.out.println(second);
             }
         }
+
+
     }
 
     static class Reader {
@@ -78,6 +66,10 @@ public class B {
 
         static int nextInt() throws IOException {
             return Integer.parseInt(next());
+        }
+
+        static long nextLong() throws IOException {
+            return Long.parseLong(next());
         }
 
         static double nextDouble() throws IOException {

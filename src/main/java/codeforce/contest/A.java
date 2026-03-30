@@ -1,38 +1,42 @@
-package codeforce.contest;
+
 
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.math.BigInteger;
-import java.util.HashMap;
-import java.util.Map;
+import java.util.Arrays;
+import java.util.HashSet;
+import java.util.Set;
 import java.util.StringTokenizer;
 
 public class A {
 
     public static void main(String[] args) throws IOException {
         int t = Reader.nextInt();
-        for (int i = 0; i < t; i++) {
+        for (int k = 0; k < t; k++) {
             int n = Reader.nextInt();
-            int[] cnt = new int[n + 1];
-            Map<Integer, Integer> memo = new HashMap<>();
-            for (int j = 0; j < n; j++) {
-                int num = Reader.nextInt();
-                cnt[num]++;
+            if (n % 2 == 0) {
+                System.out.println(n / 2 - 1);
+            } else {
+                System.out.println(n / 2);
             }
-            for (int x : cnt) {
-                int val = memo.getOrDefault(x, 0) + 1;
-                memo.put(x, val);
-            }
-            int res = 0;
-            int sum = 0;
-            for (int j = n; j >= 1; j--) {
-                int val = memo.getOrDefault(j, 0);
-                sum += val;
-                res = Math.max(res, j * sum);
-            }
-            System.out.println(res);
         }
+    }
+
+    public static int f(int i, int startIndex, int[] arr, int[][] memo) {
+        if (i == startIndex) {
+            return 1;
+        }
+        if (memo[i][startIndex] != -1) {
+            return memo[i][startIndex];
+        }
+        int res = 0;
+        for (int j = i - 1; j >= startIndex; j--) {
+            if (arr[i] > arr[j]) {
+                res = Math.max(res, f(j, startIndex, arr, memo));
+            }
+        }
+        return memo[i][startIndex] = res + 1;
     }
 
 
