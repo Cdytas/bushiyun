@@ -434,11 +434,11 @@
       </method>
     </configuration>
     <configuration name="Test8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ForTest.Test8" />
+      <option name="MAIN_CLASS_NAME" value="com.barca.bushiyun.ForTest.Test8" />
       <module name="Bushiyun" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ForTest.*" />
+          <option name="PATTERN" value="com.barca.bushiyun.ForTest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -447,11 +447,11 @@
       </method>
     </configuration>
     <configuration name="test9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ForTest.test9" />
+      <option name="MAIN_CLASS_NAME" value="com.barca.bushiyun.ForTest.test9" />
       <module name="Bushiyun" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ForTest.*" />
+          <option name="PATTERN" value="com.barca.bushiyun.ForTest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
