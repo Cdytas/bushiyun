@@ -8,13 +8,9 @@ package com.barca.bushiyun.util;
  * 空间复杂度：O(n log n)
  */
 public class St {
-    // stMax[j][i] 表示从索引 i 开始，长度为 2^j 的区间内的最大值
     private final int[][] stMax;
-    // stMin[j][i] 表示从索引 i 开始，长度为 2^j 的区间内的最小值
     private final int[][] stMin;
-    // log[i] 存储 floor(log2(i))，用于加速查询
     private final int[] log;
-
     /**
      * 构造函数：构建 ST 表
      * @param nums 原始数组
@@ -22,35 +18,23 @@ public class St {
     public St(int[] nums) {
         int n = nums.length;
 
-        // 1. 预处理 log 数组
-        // log[i] = floor(log2(i))
         log = new int[n + 1];
         for (int i = 2; i <= n; i++) {
             log[i] = log[i / 2] + 1;
         }
 
-        // 计算最大层数 k
         int k = log[n] + 1;
-
-        // 初始化表
-        stMax = new int[k][n];
-        stMin = new int[k][n];
-
-        // 第 0 层：长度为 1 的区间，值即为原数组元素
+        stMax = new int[n][k];
+        stMin = new int[n][k];
         for (int i = 0; i < n; i++) {
-            stMax[0][i] = nums[i];
-            stMin[0][i] = nums[i];
+            stMax[i][0] = nums[i];
+            stMin[i][0] = nums[i];
         }
 
-        // 动态规划构建表格
-        // j 代表区间幂次长度 2^j
         for (int j = 1; j < k; j++) {
-            // i 代表起始位置，需保证区间不越界
             for (int i = 0; i + (1 << j) <= n; i++) {
-                int mid = i + (1 << (j - 1));
-                // 状态转移：当前区间 = 左右两个子区间的合并
-                stMax[j][i] = Math.max(stMax[j - 1][i], stMax[j - 1][mid]);
-                stMin[j][i] = Math.min(stMin[j - 1][i], stMin[j - 1][mid]);
+                stMax[i][j] = Math.max(stMax[i][j - 1], stMax[i + (1 << (j - 1))][j - 1]);
+                stMin[i][j] = Math.min(stMin[i][j - 1], stMin[i + (1 << (j - 1))][j - 1]);
             }
         }
     }
@@ -68,7 +52,7 @@ public class St {
         // 利用两个长度为 2^j 的区间覆盖 [l, r]
         // 区间1: [l, l + 2^j - 1]
         // 区间2: [r - 2^j + 1, r]
-        return Math.max(stMax[j][l], stMax[j][r - (1 << j) + 1]);
+        return Math.max(stMax[l][j], stMax[r - (1 << j) + 1][j]);
     }
 
     /**
@@ -81,6 +65,6 @@ public class St {
         int len = r - l + 1;
         int j = log[len];
 
-        return Math.min(stMin[j][l], stMin[j][r - (1 << j) + 1]);
+        return Math.min(stMin[l][j], stMin[r - (1 << j) + 1][j]);
     }
 }

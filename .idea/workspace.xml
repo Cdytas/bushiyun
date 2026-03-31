@@ -6,75 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="62ec2f87-ee2d-44a5-90e7-042ba8147937" name="更改" comment="huge feature">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/barca/bushiyun/ForTest/test9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/barca/bushiyun/ForTest/test9.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/barca/bushiyun/util/St.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/barca/bushiyun/util/St.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/DirectedGraph/BFSPaths.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/DirectedGraph/DFSPaths.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/DirectedGraph/DepthFirstOrder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/DirectedGraph/Digraph.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/DirectedGraph/DirectedCycle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/DirectedGraph/DirectedDFS.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/DirectedGraph/KosarajuSCC.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/DirectedGraph/Topological.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ForTest/ArraysfillTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ForTest/DequeAndQueue.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ForTest/DinnerPlates.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ForTest/Fu.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ForTest/LamdbaTest$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ForTest/LamdbaTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ForTest/MergeOfHashMap.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ForTest/StackTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ForTest/StringMethodTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ForTest/Test1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ForTest/Test2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ForTest/Test3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ForTest/Test6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ForTest/Test7.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ForTest/Test8.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ForTest/nextline.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ForTest/swkitch.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ForTest/test9.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/UndirectedGraph/BreadthFirstPaths.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/UndirectedGraph/CC.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/UndirectedGraph/Cycle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/UndirectedGraph/DepthFirstPaths.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/UndirectedGraph/DepthFirstSearch.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/UndirectedGraph/Graph.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/UndirectedGraph/TwoColor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/UndirectedGraph/UnionFind.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/WithWeight_DirectedGraph/DijkstraSP.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/WithWeight_DirectedGraph/DirectedEdge.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/WithWeight_DirectedGraph/EdgeWeightedDigraph.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/WithWeight_UndirectedGraph/Edge.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/WithWeight_UndirectedGraph/EdgeWeightedGraph.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/WithWeight_UndirectedGraph/KruskalMST.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/WithWeight_UndirectedGraph/LazyPrimMST.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/codeforce/Reader.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/codeforce/contest/E$Reader.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/codeforce/contest/E.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/codeforce/contest/F$Reader.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/codeforce/contest/F.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/codeforce/test/Test2148D.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/manager/AccurateExcelRowCounter$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/manager/AccurateExcelRowCounter$ExcelCountResult.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/manager/AccurateExcelRowCounter$SheetCount.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/manager/AccurateExcelRowCounter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/manager/ExcelFileCheckManager.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/util/St.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/util/TreeArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/xiaojiaoer/ArraylistTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/xiaojiaoer/BUBBLE.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/xiaojiaoer/LOVE.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/xiaojiaoer/LeapYear.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/xiaojiaoer/LotteryOfMYX.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/xiaojiaoer/OulaShai.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/xiaojiaoer/PAC.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/xiaojiaoer/StringbuildTset.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/xiaojiaoer/binary.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/xiaojiaoer/douyin.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/xiaojiaoer/lottery.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/数位DP/leetcode600.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/数位DP/leetcode902.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -134,51 +66,51 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.test9.executor": "Debug",
-    "Maven.Bushiyun [clean].executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "deletionFromPopupRequiresConfirmation": "false",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/IntelliJIDEA2025/workspace/bushiyun",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "模块",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
-    "vue.rearranger.settings.migration": "true",
-    "应用程序.A.executor": "Run",
-    "应用程序.B (1).executor": "Run",
-    "应用程序.B.executor": "Run",
-    "应用程序.C (1).executor": "Run",
-    "应用程序.C.executor": "Run",
-    "应用程序.D.executor": "Run",
-    "应用程序.E.executor": "Run",
-    "应用程序.LamdbaTest.executor": "Run",
-    "应用程序.Main.executor": "Run",
-    "应用程序.Test10.executor": "Run",
-    "应用程序.Test2148D.executor": "Run",
-    "应用程序.Test3.executor": "Run",
-    "应用程序.Test5.executor": "Run",
-    "应用程序.Test8.executor": "Debug",
-    "应用程序.codeforce.contest.D.executor": "Run",
-    "应用程序.codeforce.contest.round1051.A.executor": "Run",
-    "应用程序.codeforce.contest.round1051.B.executor": "Run",
-    "应用程序.codeforce.contest.round989.C.executor": "Run",
-    "应用程序.test9.executor": "Run"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.test9.executor&quot;: &quot;Debug&quot;,
+    &quot;Maven.Bushiyun [clean].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;deletionFromPopupRequiresConfirmation&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/IntelliJIDEA2025/workspace/bushiyun&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;模块&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;,
+    &quot;应用程序.A.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.B (1).executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.B.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.C (1).executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.C.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.D.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.E.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.LamdbaTest.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.Main.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.Test10.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.Test2148D.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.Test3.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.Test5.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.Test8.executor&quot;: &quot;Debug&quot;,
+    &quot;应用程序.codeforce.contest.D.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.codeforce.contest.round1051.A.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.codeforce.contest.round1051.B.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.codeforce.contest.round989.C.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.test9.executor&quot;: &quot;Run&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\IntelliJ IDEA 2022.3.1\workspace\Bushiyun\src\main\java" />
@@ -448,7 +380,15 @@
       <option name="project" value="LOCAL" />
       <updated>1774884877090</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="huge feature">
+      <option name="closed" value="true" />
+      <created>1774887405675</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1774887405675</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -517,8 +457,8 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/com/barca/bushiyun/ForTest/test9.java</url>
-          <line>13</line>
-          <properties class="com.barca.bushiyun.ForTest.test9" method="sortableIntegers">
+          <line>12</line>
+          <properties class="com.barca.bushiyun.ForTest.test9">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
